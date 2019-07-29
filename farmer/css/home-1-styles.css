@@ -1,0 +1,136 @@
+/*###################################
+  ---------- HOME FARMING -----------
+  ##################################*/
+figure.icon-pic{
+    width: 60px;
+}
+
+figure.icon-pic img{
+    width: 100%;
+}
+
+.home-icon-box{
+    z-index: 6;
+    position: relative;
+}
+
+.home-icon-box h3{
+    margin: 20px 0px 10px;
+}
+
+.home-icon-box p{
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.home-about p{
+    margin-bottom: 1rem;
+}
+
+.item-background{
+    position: relative;
+}
+
+.vegetables-bg-1{
+    width: 350px;
+    position: absolute;
+    bottom: -10px;
+    right: 0;
+    z-index: 5;
+    opacity: 0.4;
+}
+
+.box-steps{
+    height: 500px;
+}
+
+.front-options{
+    text-align: center;
+}
+
+.vegetables-bg-1 img{
+    width: 100%;
+}
+
+.front-options h3{
+    font-weight: 400;
+    line-height: 1.7;
+    font-size: 1rem;
+}
+
+.front-options span{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.services-container{
+    margin-top: -180px;
+}
+
+.front-thumb{
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.from-thumb-pic img{
+    width: 100%;
+}
+
+.thumb-caption{
+    padding: 30px 15px;
+}
+
+.thumb-caption h3{
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.thumb-caption p{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.btn-box p{
+    margin-bottom: 0px;
+}
+
+.farm-bg{ 
+    background-image: url("../img/images/farm-bg.jpg");
+    height: 600px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.cd-h-timeline{
+    background: transparent;
+}
+
+.js .cd-h-timeline__container{
+    width: 100%;
+}
+
+.js .cd-h-timeline__event-content{
+    width: 100%;
+}
+
+.cd-h-timeline__events{
+    margin-top: -60px;
+}
+
+.js .cd-h-timeline__event-title{
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.js .cd-h-timeline__date {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.js .cd-h-timeline__event-date{
+    font-family: 'Poppins', sans-serif;
+}
